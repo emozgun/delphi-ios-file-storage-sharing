@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.471,C:\1\Progdil\Delphi\Projeler\iOSDosyaDepolamaPaylasma\iOSDosyaDepolamaPaylasma.dproj=C:\1\Progdil\Delphi\Projeler\iOSDosyaDepolamaPaylasma\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.222,C:\1\Progdil\Delphi\Projeler\iOSDosyaDepolamaPaylasma\Project1.dproj=C:\1\Progdil\Delphi\Projeler\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.493,=C:\1\Progdil\Delphi\Projeler\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.242,C:\1\Progdil\Delphi\Projeler\iOSDosyaDepolamaPaylasma\Unit1.pas=C:\1\Progdil\Delphi\Projeler\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.242,C:\1\Progdil\Delphi\Projeler\iOSDosyaDepolamaPaylasma\Unit1.fmx=C:\1\Progdil\Delphi\Projeler\Unit1.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<Pmac iOSDevice64="_iosdevice_00008101-000C385A0230001E" iOSSimARM64=""/>
+	</ActiveMobileDevice>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
