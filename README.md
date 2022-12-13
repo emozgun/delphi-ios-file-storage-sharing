@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/iOS-FileStorage-brightgreen)
 ![Stars](https://img.shields.io/github/stars/emozgun/delphi-ios-file-storage-sharing)
 ![Issues](https://img.shields.io/github/issues/emozgun/delphi-ios-file-storage-sharing)
-<a href="https://www.delphican.com/showthread.php?tid=7086"></a>
+<a href="https://www.delphican.com/showthread.php?tid=7086">Original in Turkish</a>
 
 
 `*`While most codes are same, there is a fundamental difference between iOS and Windows: **Files in iOS are in a sandbox.** You can’t just open a file in “My Documents” and save it in another place in the disk. Actually, you can’t access any file outside the folder where your application is installed. How to deal with the file sandbox is what we are going to cover on the rest of this file.
@@ -218,7 +218,7 @@ Steps for registering file type to be imported:
 </dict>
 </plist>
 ```
-insert the script below on the bottom "</dict>" line:
+insert the script below on the bottom "< /dict >" line:
 ```xml
 <key>CFBundleDocumentTypes</key>
 <array>
